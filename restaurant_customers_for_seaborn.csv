@@ -1,0 +1,201 @@
+customer_id,customer_name,gender,age,food_ordered,ordered_time,total_bill,day,waiter_tips,restaurant_name
+CUST01216,Lakshit Kanda,Male,61,Tandoori Chicken,11:32,1651.68,Monday,137.18,Swadisht Bhojan
+CUST01217,Tiya Ramaswamy,Male,53,Chole Bhature,02:21,619.53,Wednesday,56.93,Zaika
+CUST01218,Nitya Krishna,Male,55,Chicken Biryani,23:42,949.11,Friday,131.06,Biryani Junction
+CUST01219,Tushar Comar,Male,22,Tandoori Chicken,12:15,1270.76,Sunday,68.53,Taste of India
+CUST01220,Ira Dalal,Male,52,Pav Bhaji,13:15,320.49,Thursday,34.2,Zaika
+CUST01221,Kaira Srinivas,Male,33,Pav Bhaji,09:42,1351.94,Tuesday,200.29,Desi Tadka
+CUST01222,Himmat Dewan,Male,42,Fish Curry,16:11,845.68,Sunday,126.7,Desi Tadka
+CUST01223,Hiran Kunda,Male,62,Paneer Butter Masala,10:48,733.41,Monday,94.46,Spice Garden
+CUST01224,Indranil Borah,Male,38,Fish Curry,22:52,1257.82,Thursday,145.13,Mirch Masala
+CUST01225,Uthkarsh Kanda,Female,59,Masala Dosa,10:09,1359.62,Wednesday,129.48,The Indian Curry House
+CUST01226,Ojas Sibal,Male,43,Pav Bhaji,00:36,877.71,Thursday,85.88,Curry Leaf
+CUST01227,Yakshit Barman,Male,61,Tandoori Chicken,20:47,850.5,Tuesday,88.07,Swadisht Bhojan
+CUST01228,Adah Dhaliwal,Female,57,Veg Pulao,08:29,531.77,Tuesday,47.92,The Indian Curry House
+CUST01229,Jivika Warrior,Male,65,Dal Makhani,02:48,914.51,Saturday,85.61,The Indian Curry House
+CUST01230,Aradhya Wason,Female,20,Paneer Butter Masala,02:43,1108.31,Friday,99.31,Desi Tadka
+CUST01231,Vivaan Sheth,Male,55,Veg Pulao,06:15,1505.76,Monday,107.67,Swadisht Bhojan
+CUST01232,Romil Gade,Male,57,Paneer Butter Masala,13:59,453.39,Wednesday,63.77,Biryani Junction
+CUST01233,Jhanvi Balan,Male,49,Chicken Biryani,15:28,1112.57,Thursday,154.5,Swadisht Bhojan
+CUST01234,Riya Khalsa,Female,41,Tandoori Chicken,02:13,676.49,Monday,61.88,Mirch Masala
+CUST01235,Neysa Kamdar,Male,36,Pav Bhaji,13:07,992.69,Thursday,109.54,Biryani Junction
+CUST01236,Aayush Bath,Male,34,Pav Bhaji,00:34,1146.18,Tuesday,116.22,Spice Garden
+CUST01237,Jiya Wadhwa,Female,26,Pav Bhaji,16:06,712.5,Sunday,85.99,Desi Tadka
+CUST01238,Kabir Raval,Male,53,Masala Dosa,07:10,1375.26,Thursday,80.34,Swadisht Bhojan
+CUST01239,Ivan Gole,Male,32,Chole Bhature,16:56,1484.46,Monday,200.08,Swadisht Bhojan
+CUST01240,Gokul Choudhry,Female,31,Chole Bhature,13:36,1313.76,Wednesday,110.11,Curry Leaf
+CUST01241,Umang Talwar,Female,22,Fish Curry,06:18,528.13,Monday,79.07,Biryani Junction
+CUST01242,Khushi Varughese,Female,61,Pav Bhaji,16:33,298.39,Monday,36.5,The Indian Curry House
+CUST01243,Rasha Handa,Female,45,Rajma Chawal,18:07,1257.22,Saturday,144.87,Spice Garden
+CUST01244,Rati Bail,Female,58,Masala Dosa,00:23,1569.67,Friday,112.07,Mirch Masala
+CUST01245,Mehul Sen,Female,37,Tandoori Chicken,15:08,634.91,Saturday,94.34,Swadisht Bhojan
+CUST01246,Vivaan Kale,Male,28,Pav Bhaji,08:20,1758.39,Friday,163.57,Curry Leaf
+CUST01247,Himmat Dalal,Female,36,Chole Bhature,14:46,929.77,Friday,81.43,The Indian Curry House
+CUST01248,Nayantara Ahluwalia,Male,54,Chicken Biryani,09:06,686.8,Thursday,71.07,Mirch Masala
+CUST01249,Lavanya Malhotra,Male,64,Chicken Biryani,20:56,544.87,Sunday,63.08,The Indian Curry House
+CUST01250,Navya Dara,Male,37,Fish Curry,18:35,321.63,Wednesday,39.46,Zaika
+CUST01251,Chirag Banik,Male,37,Masala Dosa,21:49,1204.65,Sunday,160.29,Taste of India
+CUST01252,Rania Kaul,Female,25,Paneer Butter Masala,08:43,1593.62,Saturday,203.09,Curry Leaf
+CUST01253,Samarth Kade,Female,39,Chole Bhature,20:06,1468.45,Thursday,172.57,Mirch Masala
+CUST01254,Vritika Doshi,Female,55,Tandoori Chicken,22:13,650.85,Friday,41.85,Namak
+CUST01255,Vedika Thaker,Female,18,Dal Makhani,21:13,1506.37,Thursday,171.35,Biryani Junction
+CUST01256,Nishith Kapadia,Male,31,Dal Makhani,06:33,1706.26,Monday,155.13,Taste of India
+CUST01257,Shayak Borra,Male,43,Fish Curry,09:30,381.09,Tuesday,23.19,Taste of India
+CUST01258,Nehmat Koshy,Male,35,Dal Makhani,13:05,829.56,Sunday,94.24,Mirch Masala
+CUST01259,Kiara Vyas,Female,37,Fish Curry,14:03,1608.16,Saturday,121.14,The Indian Curry House
+CUST01260,Armaan Date,Male,39,Chicken Biryani,14:14,1788.1,Wednesday,194.47,Curry Leaf
+CUST01261,Kiara Sastry,Female,41,Pav Bhaji,02:12,1539.68,Friday,113.07,Namak
+CUST01262,Ehsaan Shankar,Male,18,Veg Pulao,13:12,207.59,Thursday,30.32,Namak
+CUST01263,Mehul Banik,Male,61,Rajma Chawal,15:40,1267.11,Saturday,131.43,Biryani Junction
+CUST01264,Hiran Tailor,Male,31,Chole Bhature,01:25,1830.41,Monday,99.17,Curry Leaf
+CUST01265,Amira Som,Female,41,Paneer Butter Masala,08:29,1998.77,Sunday,284.87,Spice Garden
+CUST01266,Lakshit Shanker,Female,48,Veg Pulao,22:22,731.89,Thursday,86.81,Zaika
+CUST01267,Samiha Raval,Male,18,Tandoori Chicken,06:45,1823.02,Saturday,227.84,Desi Tadka
+CUST01268,Hrishita Mall,Male,60,Paneer Butter Masala,12:52,1077.34,Saturday,106.2,Spice Garden
+CUST01269,Nitya Bakshi,Female,28,Chicken Biryani,14:59,1981.81,Saturday,214.4,Curry Leaf
+CUST01270,Jiya Zacharia,Male,18,Tandoori Chicken,03:50,799.85,Monday,99.38,The Indian Curry House
+CUST01271,Biju Kothari,Female,38,Masala Dosa,21:19,1002.31,Saturday,100.42,Taste of India
+CUST01272,Priyansh Thaker,Female,24,Chole Bhature,22:21,1024.36,Thursday,116.93,Zaika
+CUST01273,Kiaan Kanda,Male,38,Dal Makhani,12:55,850.16,Tuesday,44.89,Namak
+CUST01274,Vihaan Bhakta,Female,23,Paneer Butter Masala,04:21,1813.04,Tuesday,213.33,Curry Leaf
+CUST01275,Anaya Contractor,Female,63,Fish Curry,17:24,1807.24,Wednesday,93.9,Zaika
+CUST01276,Heer Dey,Male,18,Paneer Butter Masala,15:57,310,Friday,17.25,Mirch Masala
+CUST01277,Tara Sachar,Male,49,Paneer Butter Masala,21:45,518.67,Monday,32.08,Biryani Junction
+CUST01278,Piya Gopal,Male,35,Chicken Biryani,22:11,495.58,Wednesday,31.33,Biryani Junction
+CUST01279,Ehsaan Sabharwal,Male,29,Tandoori Chicken,06:47,299.58,Monday,23.31,Desi Tadka
+CUST01280,Tanya Jhaveri,Male,27,Chicken Biryani,08:07,1309.66,Saturday,103.72,Curry Leaf
+CUST01281,Indranil Yohannan,Male,27,Rajma Chawal,23:59,762.51,Saturday,52.22,Taste of India
+CUST01282,Eva Thakur,Male,22,Paneer Butter Masala,03:51,714.08,Tuesday,89.84,Mirch Masala
+CUST01283,Pranay Chahal,Female,63,Masala Dosa,10:30,1084.22,Saturday,151.75,The Indian Curry House
+CUST01284,Miraya Dass,Female,27,Dal Makhani,23:08,977.47,Sunday,134.93,Swadisht Bhojan
+CUST01285,Ira Sridhar,Female,28,Chole Bhature,09:13,767.49,Thursday,104.18,The Indian Curry House
+CUST01286,Zoya Badami,Female,40,Veg Pulao,01:14,1038.61,Sunday,99.29,Spice Garden
+CUST01287,Nehmat Mahal,Female,52,Masala Dosa,08:23,630.79,Tuesday,49.1,Spice Garden
+CUST01288,Madhav Buch,Female,58,Paneer Butter Masala,05:42,1352.14,Tuesday,191.15,Curry Leaf
+CUST01289,Urvi Sandhu,Female,60,Dal Makhani,16:41,230.59,Sunday,32.36,Curry Leaf
+CUST01290,Khushi Kunda,Female,51,Pav Bhaji,10:26,1996.45,Sunday,102.65,Curry Leaf
+CUST01291,Yuvraj  Sahota,Male,31,Pav Bhaji,05:59,1373.09,Thursday,72.02,Biryani Junction
+CUST01292,Riya Khatri,Male,33,Masala Dosa,18:19,1409.88,Wednesday,121.71,Curry Leaf
+CUST01293,Charvi Rout,Female,35,Fish Curry,21:21,504.42,Wednesday,72.39,Curry Leaf
+CUST01294,Misha Mani,Male,54,Pav Bhaji,09:42,1983.28,Wednesday,122.05,The Indian Curry House
+CUST01295,Darshit Solanki,Male,62,Chole Bhature,16:07,300.9,Sunday,20.84,Curry Leaf
+CUST01296,Shayak Konda,Female,19,Chole Bhature,06:39,1238.2,Wednesday,172.38,The Indian Curry House
+CUST01297,Tushar Srinivasan,Female,29,Tandoori Chicken,23:23,1146.76,Friday,148.59,Swadisht Bhojan
+CUST01298,Kiaan Gupta,Female,42,Masala Dosa,21:52,1527.19,Wednesday,100.88,Namak
+CUST01299,Nirvi Sethi,Female,57,Rajma Chawal,22:37,639.33,Tuesday,43.96,Taste of India
+CUST01300,Ayesha Kakar,Female,37,Veg Pulao,00:24,351.95,Sunday,51.81,Taste of India
+CUST01301,Riaan Sehgal,Female,59,Chicken Biryani,09:35,974.5,Friday,52.54,Desi Tadka
+CUST01302,Shlok Sane,Female,25,Paneer Butter Masala,04:38,200.76,Wednesday,12.39,Spice Garden
+CUST01303,Zeeshan Deol,Male,32,Chole Bhature,01:24,696.88,Thursday,103.24,Biryani Junction
+CUST01304,Suhana Tiwari,Female,60,Dal Makhani,22:45,1817.25,Sunday,152.2,Taste of India
+CUST01305,Pranay Manda,Male,45,Fish Curry,02:58,1164.43,Monday,154.99,The Indian Curry House
+CUST01306,Lakshit Kuruvilla,Male,37,Fish Curry,13:23,361.2,Sunday,27.45,Spice Garden
+CUST01307,Amani Dhar,Male,47,Masala Dosa,13:41,1901.88,Tuesday,187.86,The Indian Curry House
+CUST01308,Vanya Atwal,Female,21,Fish Curry,02:49,462.66,Saturday,57.99,Swadisht Bhojan
+CUST01309,Madhav D’Alia,Male,38,Veg Pulao,05:05,1680.72,Friday,137.58,The Indian Curry House
+CUST01310,Jiya Sekhon,Male,63,Pav Bhaji,17:52,329.99,Tuesday,39.58,Mirch Masala
+CUST01311,Vritika Dhingra,Female,21,Chicken Biryani,18:01,448.98,Friday,41.4,Curry Leaf
+CUST01312,Chirag Dhar,Female,65,Chole Bhature,04:55,394.06,Saturday,20.94,Taste of India
+CUST01313,Ritvik Badal,Male,44,Dal Makhani,10:51,1388.6,Tuesday,70.1,Swadisht Bhojan
+CUST01314,Bhamini Raval,Female,42,Rajma Chawal,03:55,1235.44,Wednesday,111.39,Mirch Masala
+CUST01315,Prisha Krishna,Male,50,Chole Bhature,13:04,849.1,Tuesday,124.02,Biryani Junction
+CUST01316,Sara Kale,Male,18,Chole Bhature,01:24,553.6,Tuesday,78.23,Namak
+CUST01317,Damini Sehgal,Female,44,Chole Bhature,01:03,1348,Tuesday,104.7,Taste of India
+CUST01318,Bhamini Borde,Male,47,Paneer Butter Masala,19:38,1202.58,Monday,146.12,Zaika
+CUST01319,Hiran Jain,Male,41,Pav Bhaji,16:26,1010.15,Wednesday,55.63,Curry Leaf
+CUST01320,Ayesha Vig,Male,65,Paneer Butter Masala,12:55,522.36,Wednesday,44.59,Biryani Junction
+CUST01321,Prisha Trivedi,Male,28,Veg Pulao,19:34,1656.93,Sunday,242.74,Mirch Masala
+CUST01322,Aayush Krishnamurthy,Female,57,Chicken Biryani,22:37,402.66,Monday,28.21,Desi Tadka
+CUST01323,Kiara Khatri,Female,36,Chicken Biryani,10:54,295.64,Friday,39.08,Swadisht Bhojan
+CUST01324,Madhup Dave,Female,55,Rajma Chawal,23:08,1025.55,Tuesday,102.73,Mirch Masala
+CUST01325,Navya Dugal,Male,22,Pav Bhaji,14:08,215.17,Friday,29.86,Curry Leaf
+CUST01326,Yuvaan Rao,Female,39,Paneer Butter Masala,05:41,1873.38,Sunday,233.54,Namak
+CUST01327,Mishti Iyengar,Female,23,Dal Makhani,02:22,1912.96,Monday,185.56,Curry Leaf
+CUST01328,Khushi Rege,Male,34,Rajma Chawal,15:24,1776.24,Tuesday,226.07,Swadisht Bhojan
+CUST01329,Ivan Taneja,Female,45,Pav Bhaji,06:20,1989.45,Saturday,293.3,Zaika
+CUST01330,Jivika Shenoy,Female,61,Pav Bhaji,10:13,846.98,Saturday,61.23,Namak
+CUST01331,Sara Borah,Male,55,Tandoori Chicken,11:19,1223.12,Saturday,71.2,Namak
+CUST01332,Mamooty Tara,Female,59,Veg Pulao,18:41,1893.94,Tuesday,128.09,Curry Leaf
+CUST01333,Eva Garg,Male,22,Dal Makhani,19:30,1209.47,Thursday,83.75,Namak
+CUST01334,Parinaaz Tank,Male,64,Chole Bhature,23:56,1590.06,Tuesday,184.27,Mirch Masala
+CUST01335,Anahita Golla,Female,56,Tandoori Chicken,07:30,1397.21,Tuesday,140.47,Biryani Junction
+CUST01336,Anay Choudhry,Female,28,Chicken Biryani,17:03,1438.69,Thursday,149.21,Desi Tadka
+CUST01337,Dhruv Aurora,Male,58,Veg Pulao,01:05,1567.01,Saturday,140.89,Namak
+CUST01338,Veer Sankaran,Female,61,Pav Bhaji,11:10,1901.58,Wednesday,152.91,Curry Leaf
+CUST01339,Rohan Sunder,Male,53,Fish Curry,17:45,1263.92,Thursday,135.99,Desi Tadka
+CUST01340,Shayak Devan,Female,34,Veg Pulao,02:04,436.44,Sunday,23.37,Desi Tadka
+CUST01341,Bhavin Lala,Female,46,Pav Bhaji,13:53,1573.13,Wednesday,144.92,Swadisht Bhojan
+CUST01342,Taran Deshmukh,Male,63,Veg Pulao,01:20,1968.83,Thursday,225.53,The Indian Curry House
+CUST01343,Rania Ravi,Female,39,Masala Dosa,14:56,1789.69,Wednesday,162.82,Biryani Junction
+CUST01344,Anvi Singhal,Female,37,Fish Curry,03:43,1167.31,Wednesday,145.07,Zaika
+CUST01345,Aarush Sem,Male,39,Veg Pulao,03:29,340.58,Thursday,31.07,Taste of India
+CUST01346,Vaibhav Tak,Male,53,Paneer Butter Masala,09:27,1516.58,Friday,117.32,Namak
+CUST01347,Siya Sekhon,Male,65,Paneer Butter Masala,17:10,350.65,Thursday,48.49,Taste of India
+CUST01348,Shalv Manda,Female,26,Chicken Biryani,01:52,1274.76,Friday,139.3,Taste of India
+CUST01349,Shray Chatterjee,Female,57,Chole Bhature,23:14,410.25,Wednesday,33.15,The Indian Curry House
+CUST01350,Rohan Ram,Female,59,Fish Curry,20:33,610.37,Sunday,47.73,Desi Tadka
+CUST01351,Kimaya Chada,Male,19,Paneer Butter Masala,06:39,1770.7,Sunday,244.25,Mirch Masala
+CUST01352,Aayush Dayal,Male,38,Dal Makhani,11:57,746.82,Sunday,108.34,Desi Tadka
+CUST01353,Alia Salvi,Male,39,Chole Bhature,00:54,721.45,Tuesday,53.1,Spice Garden
+CUST01354,Anika Mann,Female,23,Rajma Chawal,12:02,1800.28,Tuesday,241.33,Mirch Masala
+CUST01355,Samar Kothari,Male,51,Pav Bhaji,12:57,531.37,Thursday,36.44,Taste of India
+CUST01356,Aaryahi Kala,Female,21,Masala Dosa,13:00,1912.72,Monday,258.62,Biryani Junction
+CUST01357,Alisha Kara,Female,30,Rajma Chawal,18:57,674.64,Wednesday,81.81,Namak
+CUST01358,Dharmajan Konda,Female,54,Rajma Chawal,17:19,569.42,Tuesday,48.96,Spice Garden
+CUST01359,Priyansh Tank,Female,63,Masala Dosa,01:31,620.64,Tuesday,38.09,Desi Tadka
+CUST01360,Navya Issac,Female,29,Fish Curry,23:27,837.06,Monday,117.08,Mirch Masala
+CUST01361,Uthkarsh Vala,Male,19,Rajma Chawal,20:31,1103.64,Monday,152.85,Mirch Masala
+CUST01362,Krish Wali,Female,57,Pav Bhaji,06:35,574.87,Wednesday,55.66,Desi Tadka
+CUST01363,Nishith Agate,Male,63,Dal Makhani,11:32,515.09,Sunday,43.64,Desi Tadka
+CUST01364,Samar Sarin,Female,31,Dal Makhani,05:34,861.03,Monday,119.26,Curry Leaf
+CUST01365,Hiran Majumdar,Female,46,Tandoori Chicken,18:36,457.19,Wednesday,24.01,Spice Garden
+CUST01366,Dharmajan Halder,Male,47,Chole Bhature,21:57,1874.04,Sunday,137.7,Desi Tadka
+CUST01367,Pranay Sekhon,Male,40,Chole Bhature,12:59,1235.27,Sunday,150.1,Mirch Masala
+CUST01368,Veer Buch,Male,22,Chole Bhature,16:14,665.19,Wednesday,67.57,Curry Leaf
+CUST01369,Bhavin Ramaswamy,Female,30,Chole Bhature,11:52,1532.65,Thursday,176.67,Desi Tadka
+CUST01370,Yasmin Kuruvilla,Female,31,Masala Dosa,04:32,1679.05,Sunday,241.69,Taste of India
+CUST01371,Umang Ganesan,Male,52,Masala Dosa,00:22,1440.06,Sunday,127.53,The Indian Curry House
+CUST01372,Jivika Dar,Male,52,Chicken Biryani,06:12,1726.49,Wednesday,217.57,Biryani Junction
+CUST01373,Pari Acharya,Male,41,Rajma Chawal,22:09,1341.88,Thursday,152.57,Curry Leaf
+CUST01374,Jhanvi Wali,Male,48,Dal Makhani,15:03,740.98,Sunday,87.25,Spice Garden
+CUST01375,Biju Tandon,Male,32,Dal Makhani,12:04,1054.17,Thursday,80.72,Swadisht Bhojan
+CUST01376,Advik Dey,Male,21,Chole Bhature,09:05,1288.32,Wednesday,170.74,Zaika
+CUST01377,Sara Bhatnagar,Female,36,Paneer Butter Masala,01:50,1975.81,Friday,131.52,Namak
+CUST01378,Nirvi Sabharwal,Female,46,Rajma Chawal,16:31,488.54,Saturday,68.76,Swadisht Bhojan
+CUST01379,Biju Bhattacharyya,Female,38,Dal Makhani,16:11,494.08,Tuesday,27.65,Mirch Masala
+CUST01380,Mahika Som,Female,59,Chicken Biryani,00:03,283.97,Tuesday,21.64,The Indian Curry House
+CUST01381,Hunar Sarkar,Female,57,Dal Makhani,17:42,1533.86,Saturday,204.98,The Indian Curry House
+CUST01382,Manikya Sharaf,Male,25,Chicken Biryani,12:24,1926.39,Sunday,156.04,Zaika
+CUST01383,Nakul Sood,Male,25,Paneer Butter Masala,13:09,694.15,Wednesday,53.06,Taste of India
+CUST01384,Dhanush Choudhury,Male,57,Veg Pulao,19:09,354.16,Monday,28.61,Namak
+CUST01385,Anika Dalal,Male,46,Fish Curry,04:59,1393.42,Wednesday,186.58,Namak
+CUST01386,Divij Lalla,Male,54,Paneer Butter Masala,12:50,1428.47,Saturday,206.83,Swadisht Bhojan
+CUST01387,Rohan Sur,Female,29,Masala Dosa,00:59,879.77,Wednesday,53.83,Namak
+CUST01388,Rasha Sagar,Female,35,Masala Dosa,19:40,274.98,Thursday,17.53,Mirch Masala
+CUST01389,Gatik Dua,Female,21,Chole Bhature,09:26,1952.9,Monday,248.14,Curry Leaf
+CUST01390,Jivika Bora,Female,58,Tandoori Chicken,12:10,1372.69,Tuesday,172.43,Mirch Masala
+CUST01391,Dhanuk Bedi,Female,47,Chicken Biryani,01:40,810.76,Monday,67.36,Biryani Junction
+CUST01392,Amani Chaudhari,Female,31,Chole Bhature,13:23,1461.24,Monday,210.5,The Indian Curry House
+CUST01393,Adira Ahluwalia,Male,59,Veg Pulao,20:18,1598.96,Sunday,114.92,Taste of India
+CUST01394,Riya Shah,Male,57,Chole Bhature,22:16,1641.5,Wednesday,90.2,Swadisht Bhojan
+CUST01395,Dharmajan Chander,Female,19,Chole Bhature,15:48,1924.8,Tuesday,104.72,Desi Tadka
+CUST01396,Samiha Chawla,Female,59,Fish Curry,20:17,1677.5,Thursday,89.01,Swadisht Bhojan
+CUST01397,Uthkarsh Baral,Male,24,Fish Curry,22:10,1705.79,Wednesday,223.35,Desi Tadka
+CUST01398,Fateh Varma,Female,55,Masala Dosa,19:36,1685.1,Monday,143.76,Curry Leaf
+CUST01399,Aarav Gaba,Female,28,Paneer Butter Masala,17:38,1117.89,Friday,106.66,Desi Tadka
+CUST01400,Parinaaz Ben,Male,23,Masala Dosa,04:14,1052.03,Tuesday,90.17,Swadisht Bhojan
+CUST01401,Vivaan Bhandari,Male,57,Rajma Chawal,07:15,1783.75,Sunday,123.07,Namak
+CUST01402,Madhup Comar,Female,32,Chole Bhature,13:39,888.77,Tuesday,66.17,Spice Garden
+CUST01403,Tejas Vora,Female,20,Paneer Butter Masala,00:54,1851.25,Friday,182.73,Biryani Junction
+CUST01404,Ivana Sant,Female,28,Masala Dosa,03:03,1015.68,Friday,107.07,Taste of India
+CUST01405,Biju Arya,Male,22,Veg Pulao,04:27,1626.74,Thursday,82.86,Taste of India
+CUST01406,Vaibhav Sagar,Male,56,Chole Bhature,06:35,233.37,Wednesday,27.52,Mirch Masala
+CUST01407,Hridaan Mangal,Male,57,Dal Makhani,03:12,1894.18,Thursday,122.19,Zaika
+CUST01408,Hunar Dash,Male,48,Veg Pulao,07:52,1938.6,Wednesday,161.49,Mirch Masala
+CUST01409,Jiya Atwal,Female,62,Pav Bhaji,01:28,1123.28,Monday,71.31,Taste of India
+CUST01410,Biju Vala,Male,57,Masala Dosa,10:26,1466.94,Sunday,118.85,Spice Garden
+CUST01411,Akarsh Kala,Female,47,Chole Bhature,06:57,1691.79,Tuesday,127.21,Curry Leaf
+CUST01412,Jiya Bala,Male,20,Rajma Chawal,16:23,1956.84,Friday,282.3,Biryani Junction
+CUST01413,Armaan Keer,Female,56,Veg Pulao,18:35,1138.68,Sunday,69.99,Zaika
+CUST01414,Adah Sehgal,Male,27,Tandoori Chicken,22:49,1221.44,Thursday,159.23,Mirch Masala
+CUST01415,Amira Srinivasan,Female,22,Masala Dosa,20:58,335.1,Wednesday,25.56,Namak
